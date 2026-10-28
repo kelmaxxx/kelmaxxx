@@ -20,7 +20,18 @@
 
 ## Skill Set
 
-<img src="https://skillicons.dev/icons?i=godot,cs,dotnet,git,github,vscode" alt="Godot, C#, .NET, Git, GitHub, VS Code" />
+<table>
+  <tr>
+    <th>Game Dev</th>
+    <th>Languages</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=godot,cs,dotnet&perline=3" alt="Godot, C#, .NET" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,php,python,html,css&perline=3" alt="JavaScript, PHP, Python, HTML, CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" /></td>
+  </tr>
+</table>
 
 ## Connect with me
 
@@ -33,14 +44,12 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kelmaxxx&style=flat&color=orange)
 
-<p>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kelmaxxx&show_icons=true&theme=onedark&hide_border=true" alt="kelmaxxx's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelmaxxx&layout=compact&langs_count=8&theme=onedark&hide_border=true" alt="Top languages" />
-</p>
 
-<p>
   <img src="https://streak-stats.demolab.com?user=kelmaxxx&theme=onedark&hide_border=true" alt="GitHub streak" />
-</p>
+</div>
 
 ## 💻 Check Out My Repos ⬇️
 
