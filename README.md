@@ -45,8 +45,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=kelmaxxx&style=flat&color=orange)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelmaxxx&show_icons=true&theme=onedark&hide_border=true" alt="kelmaxxx's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelmaxxx&layout=compact&langs_count=8&theme=onedark&hide_border=true" alt="Top languages" />
 
   <img src="https://streak-stats.demolab.com?user=kelmaxxx&theme=onedark&hide_border=true" alt="GitHub streak" />
 </div>
