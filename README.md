@@ -1,9 +1,11 @@
+```
 ██╗  ██╗███████╗██╗     ███╗   ███╗ █████╗ 
 ██║ ██╔╝██╔════╝██║     ████╗ ████║██╔══██╗
 █████╔╝ █████╗  ██║     ██╔████╔██║███████║
 ██╔═██╗ ██╔══╝  ██║     ██║╚██╔╝██║██╔══██║
 ██║  ██╗███████╗███████╗██║ ╚═╝ ██║██║  ██║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AD3F7&vCenter=true&width=560&lines=Game+developer+%7C+Godot+4+%2B+C%23;Building+ISO+Pet+Mining" alt="Godot 4 + C# game developer" />
 
