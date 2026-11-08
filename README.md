@@ -1,22 +1,19 @@
-```text
-██╗  ██╗███████╗██╗     ███╗   ███╗ █████╗
+██╗  ██╗███████╗██╗     ███╗   ███╗ █████╗ 
 ██║ ██╔╝██╔════╝██║     ████╗ ████║██╔══██╗
 █████╔╝ █████╗  ██║     ██╔████╔██║███████║
 ██╔═██╗ ██╔══╝  ██║     ██║╚██╔╝██║██╔══██║
 ██║  ██╗███████╗███████╗██║ ╚═╝ ██║██║  ██║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AD3F7&vCenter=true&width=560&lines=Game+developer+%7C+Godot+4+%2B+C%23;Building+ISO+Pet+Mining" alt="Godot 4 + C# game developer" />
 
 ## About Me
 
-- I build games in **Godot 4** with **C#** (.NET 8).
-- Currently working on **ISO Pet Mining** — an isometric mining game with pets, egg hatching and an inventory.
-- Systems I've built in it: camera controls, audio manager, save/load with corrupt-save guards.
-- I like small, readable code and shipping playable builds.
+I'm Abdul Malik Gampong, A 23-year-old self-taught developer. I build websites, mobile apps, and games, using AI tools along the way to help me design, code faster and being part of my development process.
 
-<!-- TODO: add your full name, location, studies/job and anything you're proud of (hackathons, jams, awards). -->
+Right now, I'm working on **ISO Pet Mining**—an isometric pet mining game built with **Godot 4** and **C# (.NET 8)**.
+
+I like writing clean code, learning new tools, and creating fun projects that people can actually use.
 
 ## Skill Set
 
@@ -38,14 +35,11 @@
 [![GitHub](https://img.shields.io/badge/-kelmaxxx-181717?style=flat&logo=github&logoColor=white)](https://github.com/kelmaxxx)
 [![Email](https://img.shields.io/badge/-gampongacmad30@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gampongacmad30@gmail.com)
 
-<!-- TODO: add LinkedIn / X / YouTube / itch.io badges here if you use them. -->
-
 ## GitHub Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=kelmaxxx&style=flat&color=orange)
 
 <div align="center">
-
   <img src="https://streak-stats.demolab.com?user=kelmaxxx&theme=onedark&hide_border=true" alt="GitHub streak" />
 </div>
 
