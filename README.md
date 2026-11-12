@@ -27,7 +27,7 @@ I like writing clean code, learning new tools, and creating fun projects that pe
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=godot,cs,dotnet&perline=3" alt="Godot, C#, .NET" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js,php,python,html,css&perline=3" alt="JavaScript, PHP, Python, HTML, CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,php,python,html,css,c++&perline=3" alt="JavaScript, PHP, Python, HTML, CSS, C++" /></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" /></td>
   </tr>
 </table>
