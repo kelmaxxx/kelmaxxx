@@ -52,7 +52,7 @@
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" />
 </div>
-<sub>Generated with [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<sub>Generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
 <br />
 
 ---
