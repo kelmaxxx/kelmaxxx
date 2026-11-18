@@ -21,6 +21,8 @@ jobs:
           base: header
           base_indepth: yes
           plugin_isocalendar: yes
+          # default padding is 11% of the height, which leaves a dead band at the bottom
+          config_padding: 0, 6 + 2%
           # No name/avatar, calendar on the left, stats on the right.
           # Grid (never absolute positioning) so metrics still measures the real height.
           # The calendar svg draws in a 480-unit viewBox but only uses ~231 units, so it is
@@ -34,7 +36,7 @@ jobs:
             .items-wrapper>section:nth-of-type(2)>.row{display:block;grid-column:2;grid-row:2;font-size:17px}
             .items-wrapper>section:nth-of-type(2)>.row>section:nth-of-type(1){display:none}
             .items-wrapper .calendar{display:none}
-            .items-wrapper .field{margin:17px 2px!important;white-space:nowrap}
-            .items-wrapper h3.field{margin:34px 2px 10px 2px!important}
+            .items-wrapper .field{margin:22px 2px!important;white-space:nowrap}
+            .items-wrapper h3.field{margin:44px 2px 12px 2px!important}
             h2.field{grid-column:1;grid-row:1;margin:0 0 6px 2px!important;font-size:18px}
             .items-wrapper>section:nth-of-type(2)>svg[version]{grid-column:1;grid-row:2;width:1230px!important;min-width:0!important;max-width:none!important;height:auto!important;margin:0!important;display:block}
