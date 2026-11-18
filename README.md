@@ -31,9 +31,7 @@
 <!--Languages and Tools Section-->
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,cs,dotnet,js,php,python,html,css,c++&perline=9" alt="Godot, C#, .NET, JavaScript, PHP, Python, HTML, CSS, C++" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
+  <img src="./tech-stack.svg" alt="Godot, C#, .NET, JavaScript, PHP, Python, HTML, CSS, C++, Git, GitHub, VS Code" width="880" />
 </p>
 <br />
 
