@@ -19,24 +19,22 @@ jobs:
           base: header
           base_indepth: yes
           plugin_isocalendar: yes
-          # 480px card: drop the name/avatar, calendar on the left, stats on the right.
-          # Grid (not absolute) so metrics still measures the real height.
+          # 480px card: no name/avatar, calendar on the left, stats on the right.
+          # Grid, never absolute positioning, so metrics still measures the real height.
           # The calendar svg is drawn in a 480-unit viewBox but only ~231 units are used,
-          # so it is rendered at 520px (content ends at ~266px) and the empty right side
-          # is simply clipped by the card edge. That is what makes the graph bigger
-          # without widening the card or cutting the plane.
+          # so it renders at 560px and the empty right side just clips at the card edge.
+          # That is what makes the graph big without widening the card or cutting the plane.
           extras_css: |
             h1.field{display:none}
-            .items-wrapper{display:grid;grid-template-columns:minmax(0,1fr) 196px;column-gap:8px;align-items:start;box-sizing:border-box;width:100%!important;max-width:100%!important}
+            .items-wrapper{display:grid;grid-template-columns:minmax(0,1fr) 186px;column-gap:6px;align-content:space-between;align-items:start;box-sizing:border-box;width:100%!important;max-width:100%!important}
             .items-wrapper>section{display:contents}
             .items-wrapper>section>.row{display:contents}
-            .items-wrapper>section:nth-of-type(1)>.row>section{grid-column:2;font-size:11px;min-width:0}
-            .items-wrapper>section:nth-of-type(1)>.row>section:nth-of-type(1){grid-row:1}
-            .items-wrapper>section:nth-of-type(1)>.row>section:nth-of-type(2){grid-row:2}
             .items-wrapper .calendar{display:none}
-            .items-wrapper .field{white-space:nowrap;overflow:hidden}
+            .items-wrapper>section:nth-of-type(1)>.row>section:nth-of-type(1){grid-column:2;grid-row:1;font-size:11px}
+            .items-wrapper>section:nth-of-type(1)>.row>section:nth-of-type(2){grid-column:2;grid-row:2;font-size:11px}
             .items-wrapper>section:nth-of-type(2)>.row>section:nth-of-type(1){display:none}
-            .items-wrapper>section:nth-of-type(2)>.row>section:nth-of-type(2){grid-column:2;grid-row:2;font-size:11px}
-            .items-wrapper h3.field{margin:8px 0 2px}
-            h2.field{grid-column:1;grid-row:1;margin:0 0 5px}
-            .items-wrapper>section:nth-of-type(2)>svg[version]{grid-column:1;grid-row:2;width:520px!important;min-width:0!important;max-width:none!important;height:auto!important;margin:0!important;display:block}
+            .items-wrapper>section:nth-of-type(2)>.row>section:nth-of-type(2){grid-column:2;grid-row:3;font-size:11px}
+            .items-wrapper .field{margin:3px 4px!important;white-space:nowrap}
+            .items-wrapper h3.field{margin:10px 4px 3px 4px!important}
+            h2.field{grid-column:1;grid-row:1;margin:0 0 2px 4px!important}
+            .items-wrapper>section:nth-of-type(2)>svg[version]{grid-column:1;grid-row:2/span 2;width:560px!important;min-width:0!important;max-width:none!important;height:auto!important;margin:0!important;display:block}
