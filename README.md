@@ -14,7 +14,7 @@
 <!--Start Intro-->
 <p align="left">I'm Abdul Malik Gampong, a 22-year-old self-taught developer. I build websites, mobile apps, and games, using AI tools along the way to help me design, code faster and being part of my development process.</p>
 
-- ✨ Student of life :)
+- ✨ Student of life
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🎮 Building **ISO Pet Mining**, an isometric pet mining game made with Godot 4 and C# (.NET 8).
 - 🧩 I like writing clean code and creating fun projects that people can actually use.
